@@ -22,8 +22,6 @@ npm i
 npm run dev
 ```
 
-O projeto estará disponível em [http://localhost:5173](http://localhost:5173)
-
 ## 🛠️ Scripts Disponíveis
 
 - `npm run dev` - Inicia o servidor de desenvolvimento
